@@ -38,3 +38,5 @@ KONFIGURASI POSTGRES MENGGUNAKAN SEQUELIZE
 
 
 table product = name, status price stock, image
+
+![postman](postman.png)
