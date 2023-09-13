@@ -11,4 +11,8 @@ table product {
     image
 }
 
-![postman](server/postman.png)
+![postman](postman.png)
+![product](product.png)
+![create](create.png)
+![delete](delete.png)
+![update](update.png)
