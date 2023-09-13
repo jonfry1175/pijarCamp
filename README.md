@@ -1,5 +1,7 @@
 # pijarCamp
 
+PERN(PostgreSQL, ExpressJS, ReactJS, NodeJS)
+
 table product {
     id,
     name,
@@ -8,3 +10,5 @@ table product {
     stock,
     image
 }
+
+![postman](server/postman.png)
